@@ -1,0 +1,22 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "cypress tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Div-bal/cypress.git"
+  },
+  "keywords": [
+    "automation"
+  ],
+  "author": "divya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Div-bal/cypress/issues"
+  },
+  "homepage": "https://github.com/Div-bal/cypress#readme"
+}
